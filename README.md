@@ -13,5 +13,5 @@ Extraction: The system parses the HTML to capture structured data, including pri
 Result: The processed data is logged, providing a historical view of price changes to assist in identifying the best time to purchase.
 
 📊 Project Proof & Documentation
-Screenshots: https://drive.google.com/drive/folders/1WE97HtxOmWzWl5SYcOs31JoY-6ZNs5EX
+Demo video and screenshots: https://drive.google.com/drive/folders/1WE97HtxOmWzWl5SYcOs31JoY-6ZNs5EX
 Project Status: Live and ready for production testing.
